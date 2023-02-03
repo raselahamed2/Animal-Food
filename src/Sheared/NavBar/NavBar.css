@@ -1,0 +1,12 @@
+.Nab-content{
+    background-image: linear-gradient(90deg,#f496bd 0%,rgba(241, 225, 234, 0.891) 100%);
+}
+.Nab-content li:hover {
+    background-image: linear-gradient(90deg,#F86CA7 0%,#FF7F18 100%);
+    border-radius: 5px;
+    color: white;
+
+}
+.animal:hover{
+    background-image: linear-gradient(90deg,#F86CA7 0%,#FF7F18 100%);
+}

@@ -1,0 +1,6 @@
+.text-Food{
+    color: #f46f30;
+}
+.shop-var:hover{
+    background-image: linear-gradient(90deg,#F86CA7 0%,#FF7F18 100%);
+}
